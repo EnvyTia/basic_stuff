@@ -1,5 +1,5 @@
 # basic_stuff
-basic material on several programming language
+basic material for several programming language
 
 ##### C++ &nbsp;&nbsp;&nbsp;&nbsp;: algorithm, data structure, oop
 ##### Java &nbsp;&nbsp;&nbsp;&nbsp;: algorithm, oop
